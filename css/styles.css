@@ -1,0 +1,19 @@
+.firstdiv{
+  background-color: pink;
+  margin: 0;
+  padding-left: 0px;
+}
+body{
+  margin: 0;
+  padding: 10px;
+
+}
+h3{
+  color: #25316D;
+}
+hr{
+  width: 10%;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color:  #25316D;
+}
